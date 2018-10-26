@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-// import useLocalStorage from "./useLocalStorage";
 import useLocalStorage from "react-use-localstorage";
 
 import "./styles.css";
